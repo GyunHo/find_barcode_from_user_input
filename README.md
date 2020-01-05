@@ -1,4 +1,4 @@
-# find_barcode_for_kim
+# find_barcode
 
 A new Flutter application.
 
